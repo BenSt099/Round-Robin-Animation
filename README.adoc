@@ -6,7 +6,7 @@ image:https://img.shields.io/badge/Version-Stable-success[]
 
 == Goal
 
-Provide a funny animation created with css / js.
+Repo contains a funny animation created with css / js.
 
 == License
 
