@@ -3,7 +3,7 @@ function hideAllSquares(){
     document.getElementById('sq3').style.visibility = "hidden";
     document.getElementById('sq4').style.visibility = "hidden";
 }
-function getYellow() {
+function spreadOut() {
 
     document.getElementById('sq1').style.transition = "4s";
     document.getElementById('sq1').style.transform = "translateX(-40px)";
