@@ -7,6 +7,7 @@
     background-color: rgb(197, 197, 197);
     display: grid;
     grid-template-columns: 1fr;
+    padding: 100px 100px;
 }
 
 .square {
