@@ -5,6 +5,8 @@
 
 #mainContainer {
     background-color: rgb(197, 197, 197);
+    display: grid;
+    grid-template-columns: 1fr;
 }
 
 .square {
@@ -14,7 +16,8 @@
     width: 120px;
     height: 120px;
     margin: auto;
-    
+    grid-row-start: 1;
+    grid-column-start: 1;
 }
 
 #sq1 {
