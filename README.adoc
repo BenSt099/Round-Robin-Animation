@@ -1,0 +1,16 @@
+= Round-Robin-Animation
+
+image::https://img.shields.io/badge/License-BSD--2--Clause-critical[] 
+
+image::https://img.shields.io/badge/Release-V.1.0.0-blue[] 
+
+== Goal
+
+Provide a funny animation created with css / js.
+
+
+
+== License
+
+This project is licensed under BSD-2-Clause license. For more
+information check https://github.com/BenSt099/Grades/blob/main/LICENSE.md[this] out.
