@@ -1,7 +1,8 @@
 = Round-Robin-Animation
 
 image:https://img.shields.io/badge/License-BSD%202%20Clause-red[] 
-image:https://img.shields.io/badge/Release-V.1.0.0-blue[] 
+image:https://img.shields.io/badge/Release-V.2.0.0-blue[] 
+image:https://img.shields.io/badge/Version-Stable-success[] 
 
 == Goal
 
