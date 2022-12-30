@@ -25,5 +25,8 @@ function getYellow() {
     document.getElementById('sq4').style.transition = "4s";
     document.getElementById('sq4').style.visibility = "visible";
     document.getElementById('sq4').style.transform = "translateX(-160px)";
-    
+
+    setTimeout(() => {document.getElementById('sq2').style.visibility = "hidden";
+                      document.getElementById('sq3').style.visibility = "hidden";
+                      document.getElementById('sq4').style.visibility = "hidden";}, 3000);
 }

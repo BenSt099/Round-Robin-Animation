@@ -8,8 +8,6 @@ image::https://img.shields.io/badge/Release-V.1.0.0-blue[]
 
 Provide a funny animation created with css / js.
 
-
-
 == License
 
 This project is licensed under BSD-2-Clause license. For more
